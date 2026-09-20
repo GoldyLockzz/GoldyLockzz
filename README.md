@@ -20,7 +20,7 @@ I care about:
 
 SQL, Power BI, automation, operational analytics and rule-based decision tools.
 
-[View projects →](./analytics/README.md)
+[View projects →](./data-analytics/README.md)
 
 ---
 
